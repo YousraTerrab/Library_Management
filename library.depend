@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1623509804 source:c:\users\gdpx1\onedrive\bureaublad\library\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"adherent.h"
+	"Admin.h"
+	"Livre.h"
+
+1623506627 c:\users\gdpx1\onedrive\bureaublad\library\adherent.h
+
+1623505149 source:c:\users\gdpx1\onedrive\bureaublad\library\adherent.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"adherent.h"
+
+1623372364 source:c:\users\gdpx1\onedrive\bureaublad\library\admin.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"Admin.h"
+
+1623502487 c:\users\gdpx1\onedrive\bureaublad\library\admin.h
+
+1623507368 source:c:\users\gdpx1\onedrive\bureaublad\library\livre.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	"Livre.h"
+
+1623504919 c:\users\gdpx1\onedrive\bureaublad\library\livre.h
+
